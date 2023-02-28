@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning full stack web development using MERN.
 
-- 💬 Ask me about C++, Java, Node, Javascript.
+- 💬 Ask me about C++, Java, Node, Javascript, TypeScript, React.
 
 - ⚡ Fun fact: I love Photography.
 <!--
