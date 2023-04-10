@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋, I am Pranav Goel</h2>
 
 
-- 🌱 I’m currently learning full stack web development using MERN.
+- 🌱 I’m currently learning MERN Stack.
 
-- 💬 Ask me about C++, Java, Node, Javascript, TypeScript, React.
+- 💬 Ask me about C++, Node, Javascript, TypeScript, React.
 
 - ⚡ Fun fact: I love Photography.
 <!--
@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Pranavgoel_29" target="blank"><img src="https://img.shields.io/twitter/follow/Pranavgoel_29?logo=twitter&style=for-the-badge" alt="Pranavgoel_29" /></a> </p>
 
+
+
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavgoel29&theme=radical)
+
+<!--  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=pranavgoel29&&theme=rogue&line=e1ff00&point=0400fa&area=true&hide_border=true"  width = "1200"  /> -->
