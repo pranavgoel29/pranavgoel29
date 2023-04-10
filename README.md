@@ -1,3 +1,5 @@
+<img align="top" alt="Coding" width="100%" src="https://holopin.me/pranavgoel29">
+
 <h2 align="center">Hi there 👋, I am Pranav Goel</h2>
 
 
