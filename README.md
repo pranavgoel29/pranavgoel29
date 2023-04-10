@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Pranavgoel_29" target="blank"><img src="https://img.shields.io/twitter/follow/Pranavgoel_29?logo=twitter&style=for-the-badge" alt="Pranavgoel_29" /></a> </p>
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavgoel29&theme=cobalt)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavgoel29&theme=radical)
