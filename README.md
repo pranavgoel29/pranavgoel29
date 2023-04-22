@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavgoel29&theme=radical)
-[![Pranav's GitHub Streak](https://streak-stats.demolab.com?user=pranavgoel29&theme=dracula)](https://git.io/streak-stats)
+![Pranav's GitHub Streak](https://streak-stats.demolab.com?user=pranavgoel29&theme=radical)
 <!--  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=pranavgoel29&&theme=rogue&line=e1ff00&point=0400fa&area=true&hide_border=true"  width = "1200"  /> -->
