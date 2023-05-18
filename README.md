@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MERN Stack.
 
-- 💬 Ask me about C++, Node, Javascript, TypeScript, React.
+- 💬 Ask me about React, Javascript, Node, C++.
 
 - ⚡ Fun fact: I love Photography.
 <!--
