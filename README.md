@@ -3,7 +3,7 @@
 <h2 align="center">Hi there 👋, I am Pranav Goel</h2>
 
 
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently exploring React, TypeScript.
 
 - 💬 Ask me about React, Javascript, Node, C++.
 
