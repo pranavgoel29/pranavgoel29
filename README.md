@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently exploring React, TypeScript.
 
-- 💬 Ask me about React, Javascript, Node, C++.
+- 💬 Ask me about React, TypeScript, Javascript, Node, and C++.
 
-- ⚡ Fun fact: I love Photography.
+- 📸 I love Photography.
 <!--
-**pranavgoel29/pranavgoel29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pranavgoel29/pranavgoel29** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
