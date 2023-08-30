@@ -3,7 +3,7 @@
 <h2 align="center">Hi there 👋, I am Pranav Goel</h2>
 
 
-- 🌱 I’m currently exploring React, TypeScript.
+- 🌱 I’m currently exploring React, TypeScript, GraphQL.
 
 - 💬 Ask me about React, TypeScript, Javascript, Node, and C++.
 
